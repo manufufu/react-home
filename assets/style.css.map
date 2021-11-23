@@ -1,8 +1,9 @@
 {
     "version": 3,
-    "mappings": "",
+    "mappings": "AAEA,AAAA,CAAC,CAAA;EACG,UAAU,EAAC,UAAU;CACxB;;AAED,AAAA,IAAI,CAAA;EACA,gBAAgB,ECPX,OAAO;EDQZ,KAAK,ECPF,OAAO;CDQb",
     "sources": [
-        "style.scss"
+        "style.scss",
+        "mixins.scss"
     ],
     "names": [],
     "file": "style.css"
